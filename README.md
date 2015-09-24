@@ -1,1 +1,1 @@
-<img src="https://ci.appveyor.com/api/projects/status/irishakir/Office_Communicator"></img>
+<img src="https://ci.appveyor.com/api/projects/status/b4fulug08xre7pqq"></img>
