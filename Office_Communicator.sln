@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office_Communicator", "Office_Communicator\Office_Communicator.csproj", "{FA7B8C9E-CA96-4E0C-AE43-EF623DA8400E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeCommunicator", "OfficeCommunicator\OfficeCommunicator.csproj", "{FA7B8C9E-CA96-4E0C-AE43-EF623DA8400E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{67C2591A-3731-431C-B799-1CB91DA6D54A}"
 	ProjectSection(SolutionItems) = preProject
